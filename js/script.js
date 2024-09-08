@@ -1,3 +1,8 @@
+/**
+ * ChatGPT was used to help with the development of this project.
+ * It was used to help with code structure and logic implementation for the game.
+ */
+
 // Game Class: Manages the overall game logic, including button creation, scrambling, and user interactions.
 class Game {
     constructor(ui) {
